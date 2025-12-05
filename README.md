@@ -14,3 +14,5 @@ The goal of the project is to practice using Git and GitHub: creating a reposito
 
 ##How to Open the Website
 Open the file index.html in your browser
+
+https://vv413ria.github.io/Exercise_Unit5_website/
